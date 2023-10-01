@@ -1,0 +1,8 @@
+Demo3
+main.o
+mainwindow.o
+Makefile
+moc_mainwindow.cpp
+moc_mainwindow.o
+moc_predefs.h
+ui_mainwindow.h
